@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>819FB318-DC61-4303-882B-78E46B8CD70B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseChat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7163D26201E17C4226C09922EE37AD7F3EC0C904</key>
+		<string>github.com:priyankaavj/ParseChat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseChat/ParseChat.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7163D26201E17C4226C09922EE37AD7F3EC0C904</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:priyankaavj/ParseChat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7163D26201E17C4226C09922EE37AD7F3EC0C904</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7163D26201E17C4226C09922EE37AD7F3EC0C904</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseChat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
